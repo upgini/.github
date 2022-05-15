@@ -9,7 +9,7 @@ and enriches your dataset with new external features in minutes
 ⭐️ Curated and updated data sources, including public datasets and community shared data   
 ⭐️ Support for several search key types (including <i>**date/datetime, country, postal/ZIP code, SHA256 hashed email, IPv4, phone**</i>), more to come... 
 ### 📊 Data coverage and statistics, updated 2022.05.15
-Total: **239 countries** and **up to 44 years** of history
+Total: **239 countries** and **up to 41 years** of history
 |Data scource|Countries|History, years|
 |--|--|--|
 |Historical weather & Weather forecast by postal/ZIP code| 68 |12|

@@ -8,7 +8,7 @@ and enriches your dataset with new external features in minutes
 ⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipelines   
 ⭐️ Curated and updated data sources, including public datasets and community shared data   
 ⭐️ Support for several search key types (including <i>**date/datetime, country, postal/ZIP code, SHA256 hashed email, IPv4, phone**</i>), more to come... 
-### 📊 Data coverage and statistics, updated 2022.05.15
+### 📊 Data coverage and statistics, updated 2022.05.25
 Total: **239 countries** and **up to 41 years** of history
 |Data scource|Countries|History, years|
 |--|--|--|

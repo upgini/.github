@@ -1,6 +1,6 @@
 # 🔍 [Upgini](https://upgini.com): Low-code Feature search and enrichment library for machine learning  
-Upgini automatically searches through thousands of **ready-to-use features** from [public and community data sources](https://upgini.com/#data_sources)  
-and enriches your dataset with new external features in minutes
+Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources)  
+and enriches your training dataset with relevant external features
 
 ### 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
 ⭐️ Automatically find only features that *give accuracy improvement for ML model*. Not just correlated with target variable    

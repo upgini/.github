@@ -11,7 +11,7 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 ⭐️ Curated and updated data sources, including public datasets and community-shared data  
 ⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](#-search-key-types-we-support-more-to-come)   
 
-### 📊 Data coverage and statistics, updated 2022.05.25
+### 📊 Data coverage and statistics, updated 2022.08.01
 Total: **239 countries** and **up to 41 years** of history
 |Data scource|Countries|History, years|Update
 |--|--|--|--|

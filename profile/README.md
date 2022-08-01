@@ -13,19 +13,19 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 
 ### 📊 Data coverage and statistics, updated 2022.05.25
 Total: **239 countries** and **up to 41 years** of history
-|Data scource|Countries|History, years|
-|--|--|--|
-|Historical weather & Weather forecast by postal/ZIP code| 68 |22|
-|International holidays & events, workweek calendar| 232 |22|
-|Consumer Confidence index| 44 |22|
-|World economic indicators|191 |41|
-|Markets data|-|17|
-|World demographic data by postal/ZIP code|90|-
-|Public social media profile data for email & phone|104|-
-|World mobile network coverage by postal/ZIP code|167|-
-|Geolocation profile for phone & IPv4 & email|239|-
-|World house prices by postal/ZIP code|44|-
-|🔜 Email/WWW domain profile|-|-
+|Data scource|Countries|History, years|Update
+|--|--|--|--|
+|Historical weather & Weather forecast by postal/ZIP code| 68 |22|Monthly
+|International holidays & events, Workweek calendar| 232 |22|Monthly
+|Consumer Confidence index| 44 |22|Monthly
+|World economic indicators|191 |41|Monthly
+|Markets data|-|17|Monthly
+|World mobile network coverage by postal/ZIP code|167|-|Monthly
+|World demographic data by postal/ZIP code|90|-|Annual
+|World house prices by postal/ZIP code|44|-|Annual
+|Public social media profile data for email & phone|104|-|Monthly
+|Geolocation profile for phone & IPv4 & email|239|-|Monthly
+|🔜 Email/WWW domain profile|-|-|-
 
 👉 More details on [datasets and features here](https://upgini.com/#data_sources)
  

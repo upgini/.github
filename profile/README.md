@@ -15,7 +15,7 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 Total: **239 countries** and **up to 41 years** of history
 |Data scource|Countries|History, years|Update
 |--|--|--|--|
-|Historical weather & Weather forecast by postal/ZIP code| 68 |22|Monthly
+|Historical weather & Weather normals by postal/ZIP code| 68 |22|Monthly
 |International holidays & events, Workweek calendar| 232 |22|Monthly
 |Consumer Confidence index| 44 |22|Monthly
 |World economic indicators|191 |41|Monthly

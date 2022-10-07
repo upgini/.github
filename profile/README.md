@@ -9,7 +9,7 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 ⭐️ Calculate *accuracy metrics and uplifts* if you'll enrich your existing ML model with external features   
 ⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline   
 ⭐️ Curated and updated data sources, including public datasets and community-shared data  
-⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](#-search-key-types-we-support-more-to-come)   
+⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](https://github.com/upgini/upgini#-search-key-types-we-support-more-to-come)   
 
 ### 📊 Data coverage and statistics, updated 2022.08.01
 Total: **239 countries** and **up to 41 years** of history

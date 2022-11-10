@@ -13,19 +13,22 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 
 ### 📊 Data coverage and statistics
 Total: **239 countries** and **up to 41 years** of history
-|Data scource|Countries|History, years|Update
-|--|--|--|--|
-|Historical weather & Climate normals by postal/ZIP code| 68 |22|Monthly
-|International holidays & events, Workweek calendar| 232 |22|Monthly
-|Consumer Confidence index| 44 |22|Monthly
-|World economic indicators|191 |41|Monthly
-|Markets data|-|17|Monthly
-|World mobile network coverage by postal/ZIP code|167|-|Monthly
-|World demographic data by postal/ZIP code|90|-|Annual
-|World house prices by postal/ZIP code|44|-|Annual
-|Public social media profile data for email & phone|104|-|Monthly
-|Geolocation profile for phone & IPv4 & email|239|-|Monthly
-|🔜 Email/WWW domain profile|-|-|-
+|Data scource|Countries|History, years|Update|Search keys|API Key required
+|--|--|--|--|--|--|
+|Historical weather & Climate normals | 68 |22|Monthly|date, country, postal/ZIP code|No
+|Location/Places/POI information from OpenStreetMap | 221 |2|Monthly|date, country, postal/ZIP code|No
+|International holidays & events, Workweek calendar| 232 |22|Monthly|date, country|No
+|Consumer Confidence index| 44 |22|Monthly|date, country|No
+|World economic indicators|191 |41|Monthly|date, country|No
+|Markets data|-|17|Monthly|date, datetime|No
+|World mobile network coverage |167|-|Monthly|country, postal/ZIP code|No
+|World demographic data |90|-|Annual|country, postal/ZIP code|No
+|World house prices |44|-|Annual|country, postal/ZIP code|No
+|Public social media profile data |104|-|Monthly|date, email/HEM, phone |Yes
+|Car ownership data and Parking statistics|3|-|Annual|country, postal/ZIP code, email/HEM, phone|Yes
+|Geolocation profile for phone & IPv4 & email|239|-|Monthly|date, email/HEM, phone, IPv4|Yes
+|🔜 Email/WWW domain profile|-|-|-|-
+
 
 👉 More details on [datasets and features here](https://upgini.com/#data_sources)
  

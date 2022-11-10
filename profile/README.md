@@ -1,7 +1,9 @@
 <!-- # 🔍 [Upgini](https://upgini.com): Low-code Feature search and enrichment library for machine learning  
 Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources)  
 and enriches your training dataset with relevant external features -->
-# 🔍 [Upgini](https://upgini.com): Free automated data enrichment library for machine learning  
+<!-- # 🔍 [Upgini](https://upgini.com): Free automated data enrichment library for machine learning  
+Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources) -->
+# 🔍 [Upgini](https://upgini.com) • Free production-ready automated data enrichment library for machine learning 
 Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources)
 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)

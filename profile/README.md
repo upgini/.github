@@ -4,7 +4,8 @@ and enriches your training dataset with relevant external features -->
 <!-- # 🔍 [Upgini](https://upgini.com): Free automated data enrichment library for machine learning  
 Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources) -->
 # 🔍 [Upgini](https://upgini.com) • Free production-ready automated data enrichment library for machine learning 
-Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources)
+Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources) and</br>
+enriches your ML pipeline with only the relevant features
 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
 ⭐️ Automatically find only relevant features that *give accuracy improvement for ML model*. Not just correlated with target variable   

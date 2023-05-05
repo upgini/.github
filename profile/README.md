@@ -7,12 +7,12 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources) and</br>
 enriches your ML pipeline with only the relevant features -->
 # 🔍 [Upgini](https://upgini.com) • Intelligent data search engine for Machine Learning  
-Easily find and add **relevant features** to your ML pipeline from [hundreds of public, community and premium external data sources](https://upgini.com/#data_sources),</br> optimized for ML apps with LLMs and other neural networks
+Easily find and add **relevant features** to your ML pipeline from [hundreds of public, community and premium external data sources](https://upgini.com/#data_sources),</br> optimized for ML models with LLMs and other neural networks
 
 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
 ⭐️ Automatically find only relevant features that *give accuracy improvement for ML model*. Not just correlated with target variable  
-⭐️ Data source optimizations for ML apps to *"squeeze" maximum information for models* out of the source data: automated feature generation with Large Language Models' data augmentation, RNNs, GraphNN; multiple data source ensembling  
+⭐️ Data source optimizations for ML tasks to *"squeeze" maximum information for models* out of the source data: automated feature generation with Large Language Models' data augmentation, RNNs, GraphNN; multiple data source ensembling  
 ⭐️ Iterative search with *automatic search key augmentation* from all connected sources. If you are missing any search keys in your search request, Upgini will try to find those keys to broaden the search across all available data sources.   
 ⭐️ Calculate *accuracy metrics and uplifts* after enrichment existing ML model with external features   
 ⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline   

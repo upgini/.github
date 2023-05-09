@@ -15,7 +15,7 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 
 ⭐️ Data source optimizations for ML tasks to *"squeeze" maximum information for models* out of the source data: automated feature generation with Large Language Models' data augmentation, RNNs, GraphNN; multiple data source ensembling  
 
-⭐️ Iterative search with *automatic search key augmentation* from all connected sources. If you do not have all search keys, such as postal/zip code, in your search request, Upgini will automatically augment those keys to broaden the search across all available data sources  
+⭐️ *Automatic search key augmentation* from all connected sources. If you do not have all search keys in your search request, such as postal/zip code, Upgini will try to add those keys based on the provided set of search keys. This will broaden the search across all available data sources  
 
 ⭐️ Calculate *accuracy metrics and uplifts* after enrichment existing ML model with external features  
 

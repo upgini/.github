@@ -12,10 +12,15 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
 ⭐️ Automatically find only relevant features that *give accuracy improvement for ML model*. Not just correlated with target variable  
+
 ⭐️ Data source optimizations for ML tasks to *"squeeze" maximum information for models* out of the source data: automated feature generation with Large Language Models' data augmentation, RNNs, GraphNN; multiple data source ensembling  
-⭐️ Iterative search with *automatic search key augmentation* from all connected sources. If you are missing any search keys in your search request, Upgini will try to find those keys to broaden the search across all available data sources.   
-⭐️ Calculate *accuracy metrics and uplifts* after enrichment existing ML model with external features   
-⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline   
+
+⭐️ Iterative search with *automatic search key augmentation* from all connected sources. If you are missing any search keys in your search request, Upgini will try to find those keys to broaden the search across all available data sources.  
+
+⭐️ Calculate *accuracy metrics and uplifts* after enrichment existing ML model with external features  
+
+⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline  
+
 ⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](https://github.com/upgini/upgini#-search-key-types-we-support-more-to-come)    
 
 #### 📊 Total: **239 countries** and **up to 41 years** of history
@@ -34,5 +39,4 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 |Car ownership data and Parking statistics|3|-|-|Annual|country, postal/ZIP code, email/HEM, phone|Yes
 |Geolocation profile for phone & IPv4 & email|239|-|6|Monthly|date, email/HEM, phone, IPv4|Yes
 
-👉 [**Details on  datasets and features**](https://upgini.com/#data_sources) 
- 
+👉 [**Details on  datasets and features**](https://upgini.com/#data_sources)

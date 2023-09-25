@@ -23,6 +23,8 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 
 ⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](https://github.com/upgini/upgini#-search-key-types-we-support-more-to-come)    
 
+⭐️ [Simple Drag & Drop Search UI](https://appwidget-uragwvgykrk4sbmropphpy.streamlit.app/~/+/)
+
 #### 📊 Total: **239 countries** and **up to 41 years** of history
 |Data scource|Countries|History, years|# sources for ensemble|Update|Search keys|API Key required
 |--|--|--|--|--|--|--|

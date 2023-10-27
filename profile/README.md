@@ -22,7 +22,7 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 
 
 #### 📊 Total: **239 countries** and **up to 41 years** of history
-|Data scource|Countries|History, years|# sources for ensemble|Update|Search keys|API Key required
+|Data source|Countries|History, years|# sources for ensemble|Update|Search keys|API Key required
 |--|--|--|--|--|--|--|
 |Historical weather & Climate normals | 68 |22|-|Monthly|date, country, postal/ZIP code|No
 |Location/Places/POI/Area/Proximity information from OpenStreetMap | 221 |2|-|Monthly|date, country, postal/ZIP code|No

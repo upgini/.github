@@ -18,7 +18,7 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 ⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline  
 ⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](https://github.com/upgini/upgini#-search-key-types-we-support-more-to-come)    
 ⭐️ [Simple Drag & Drop Search UI:](https://upgini.com/upgini-widget)
-![upgini_data_search_for_ML](upgini_data_search_for_ML.gif)
+![upgini_data_search_for_ML](https://github.com/upgini/.github/blob/main/profile/upgini_data_search_for_ML.gif)
 
 
 #### 📊 Total: **239 countries** and **up to 41 years** of history

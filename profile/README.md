@@ -13,8 +13,8 @@ Easily find and add **relevant features** to your ML pipeline from [hundreds of 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
 ⭐️ Automatically find only relevant features that *give accuracy improvement for ML model*. Not just correlated with target variable  
 ⭐️ Automated feature generation from the sources: feature generation with Large Language Models' data augmentation, RNNs, GraphNN; multiple data source ensembling  
-⭐️ *Automatic search key augmentation* from all connected sources. If you do not have all search keys in your search request, such as postal/zip code, Upgini will try to add those keys based on the provided set of search keys. This will broaden the search across all available data sources  
-⭐️ Calculate *accuracy metrics and uplifts* after enrichment existing ML model with external features  
+⭐️ Automatic search key augmentation from all connected sources. If you do not have all search keys in your search request, such as postal/zip code, Upgini will try to add those keys based on the provided set of search keys. This will broaden the search across all available data sources  
+⭐️ Calculate accuracy metrics and uplifts after enrichment existing ML model with external features  
 ⭐️ Check the stability of accuracy gain from external data on out-of-time intervals and verification datasets. Mitigate risks of unstable external data dependencies in ML pipeline  
 ⭐️ Easy to use - single request to enrich training dataset with *all of the keys at once*: [**date/datetime, country, postal/ZIP code, country, phone number, hashed email/HEM, IP-address**](https://github.com/upgini/upgini#-search-key-types-we-support-more-to-come)    
 ⭐️ [Simple Drag & Drop Search UI:](https://upgini.com/upgini-widget)

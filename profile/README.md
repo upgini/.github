@@ -6,8 +6,8 @@ Automatically searches through thousands of **ready-to-use features** from [publ
 <!-- # 🔍 [Upgini](https://upgini.com) • Free production-ready automated data enrichment library for machine learning 
 Automatically searches through thousands of **ready-to-use features** from [public and community shared data sources](https://upgini.com/#data_sources) and</br>
 enriches your ML pipeline with only the relevant features -->
-# 🔍 [Upgini • Intelligent data search & enrichment for Machine Learning](https://upgini.com)  
-Easily find and add **relevant features** to your ML pipeline from [hundreds of public, community and premium external data sources](https://upgini.com/#data_sources),</br>including open & commercial LLMs
+# 🔍 [Upgini • Intelligent data search & enrichment for Machine Learning and AI](https://upgini.com)  
+Easily find and add **relevant features** to your ML&AI pipeline from [hundreds of public, community and premium external data sources](https://upgini.com/#data_sources),</br>including open & commercial LLMs
 
 
 ## 🚀 Awesome features of [Upgini Python Library](https://github.com/upgini/upgini)
